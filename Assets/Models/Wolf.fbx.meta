@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 2b6f74d41f9c44f42901cc005992e44a
+timeCreated: 1520800490
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cylinder
+    100004: Head
+    100006: Head.001
+    100008: Head.002
+    100010: Head.002_end
+    100012: Head.003
+    100014: Head.003_end
+    100016: Head.004
+    100018: Head.005
+    100020: Head.005_end
+    100022: Head.006
+    100024: Head.006_end
+    100026: Left Ear Curve
+    100028: Left Ear Hook
+    100030: Leg Back 1.L
+    100032: Leg Back 1.R
+    100034: Leg Back 3.IK.L
+    100036: Leg Back 3.IK.L_end
+    100038: Leg Back 3.IK.R
+    100040: Leg Back 3.IK.R_end
+    100042: Leg Back 3.L
+    100044: Leg Back 3.L_end
+    100046: Leg Back 3.R
+    100048: Leg Back 3.R_end
+    100050: LegFront1.L
+    100052: LegFront1.R
+    100054: LegFront2.L
+    100056: LegFront2.R
+    100058: LegFront3.IK.L
+    100060: LegFront3.IK.L_end
+    100062: LegFront3.IK.R
+    100064: LegFront3.IK.R_end
+    100066: LegFront3.L
+    100068: LegFront3.L_end
+    100070: LegFront3.R
+    100072: LegFront3.R_end
+    100074: Let Back 2.L
+    100076: Let Back 2.R
+    100078: Neck
+    100080: Pelvis.L
+    100082: Pelvis.L_end
+    100084: Pelvis.R
+    100086: Pelvis.R_end
+    100088: Right Ear Curve
+    100090: Right Ear Hook
+    100092: Shoulder.L
+    100094: Shoulder.R
+    100096: Spine 1
+    100098: Spine 2
+    100100: Spine 3
+    100102: Tail 1
+    100104: Tail 1.001
+    100106: Tail 2
+    100108: Tail 2.001
+    100110: Tail 2.001_end
+    100112: Tail 2.002
+    100114: Tail 2.002_end
+    100116: Tail Curve
+    100118: Tail Hook
+    100120: //RootNode
+    400000: Armature
+    400002: Cylinder
+    400004: Head
+    400006: Head.001
+    400008: Head.002
+    400010: Head.002_end
+    400012: Head.003
+    400014: Head.003_end
+    400016: Head.004
+    400018: Head.005
+    400020: Head.005_end
+    400022: Head.006
+    400024: Head.006_end
+    400026: Left Ear Curve
+    400028: Left Ear Hook
+    400030: Leg Back 1.L
+    400032: Leg Back 1.R
+    400034: Leg Back 3.IK.L
+    400036: Leg Back 3.IK.L_end
+    400038: Leg Back 3.IK.R
+    400040: Leg Back 3.IK.R_end
+    400042: Leg Back 3.L
+    400044: Leg Back 3.L_end
+    400046: Leg Back 3.R
+    400048: Leg Back 3.R_end
+    400050: LegFront1.L
+    400052: LegFront1.R
+    400054: LegFront2.L
+    400056: LegFront2.R
+    400058: LegFront3.IK.L
+    400060: LegFront3.IK.L_end
+    400062: LegFront3.IK.R
+    400064: LegFront3.IK.R_end
+    400066: LegFront3.L
+    400068: LegFront3.L_end
+    400070: LegFront3.R
+    400072: LegFront3.R_end
+    400074: Let Back 2.L
+    400076: Let Back 2.R
+    400078: Neck
+    400080: Pelvis.L
+    400082: Pelvis.L_end
+    400084: Pelvis.R
+    400086: Pelvis.R_end
+    400088: Right Ear Curve
+    400090: Right Ear Hook
+    400092: Shoulder.L
+    400094: Shoulder.R
+    400096: Spine 1
+    400098: Spine 2
+    400100: Spine 3
+    400102: Tail 1
+    400104: Tail 1.001
+    400106: Tail 2
+    400108: Tail 2.001
+    400110: Tail 2.001_end
+    400112: Tail 2.002
+    400114: Tail 2.002_end
+    400116: Tail Curve
+    400118: Tail Hook
+    400120: //RootNode
+    2100000: No Name
+    2300000: Left Ear Curve
+    2300002: Right Ear Curve
+    2300004: Tail Curve
+    3300000: Left Ear Curve
+    3300002: Right Ear Curve
+    3300004: Tail Curve
+    4300000: Tail Curve
+    4300002: Right Ear Curve
+    4300004: Left Ear Curve
+    4300006: Cylinder
+    7400000: Armature|Bow
+    7400002: Armature|Idle01
+    7400004: Armature|Idle02
+    9500000: //RootNode
+    13700000: Cylinder
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
